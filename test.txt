@@ -1,3 +1,7 @@
 I am
 emm
+<<<<<<< HEAD
 qwq
+=======
+lala
+>>>>>>> C4
